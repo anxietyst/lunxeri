@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lunxeri
-- 👀 I’m interested in programming and drawing
-- 🌱 I’m currently studying to be a programmer
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me write to me on twitter
-- 🌃 I really like to read
-- 🎇 I want to create a project that my friends and I will work on
+-  Hi, I’m @lunxeri
+-  I’m interested in programming and drawing
+-  I’m currently studying to be a programmer
+-  I’m looking to collaborate on a project
+-  How to reach me write to me on twitter
+-  I really like to read
+-  I want to create a project that my friends and I will work on
